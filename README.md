@@ -22,5 +22,5 @@ Make sure you have the latest Stable or LTS version of Node.js installed.
 ## Available Commands
 
 - `yarn start` - start the dev server
-- `yarn build` - delete the dist folder
+- `yarn build` - Build for production
 - `yarn lint` - Lint you files
