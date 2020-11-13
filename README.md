@@ -1,4 +1,4 @@
-# ES6 React Boilerplate usin Parcel
+# ES6 React Boilerplate using Parcel
 
 Simple and optimized React boilerplate. It includes:
 
